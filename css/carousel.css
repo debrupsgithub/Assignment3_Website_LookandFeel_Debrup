@@ -64,7 +64,7 @@ body {
 }
 
 .carousel-button:focus {
-  outline: 1px solid black;
+  outline: 1px black;
 }
 
 .carousel-button.prev {
